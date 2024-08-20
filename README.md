@@ -28,6 +28,4 @@ In each time step in the model, every turtle undergoes the following steps:
 
 <img src="https://github.com/dj-rojo/Climate-Change-Induced-Bias-in-Turtle-Populations-with-Temperature-Dependent-Sex-Determination/blob/main/50%20and%204.png" alt="Description of the image" align="left" width="300" />
 
-While the model uses input data grounded in scientific research, the simplified reproductive cycle has certain limitations. A model is always a simplified representation of a natural system and should be interpreted as such. The limitations of this model include the exclusion of female breeding intervals, the smaller population sizes compared to natural turtle populations, and the disregard for genetic effects and other temperature-induced impacts on turtle hatchlings. 
-
-Despite these limitations, modeling remains a valuable tool for informing conservation efforts and exploring ecological questions.
+While the model uses input data grounded in scientific research, the simplified reproductive cycle has certain limitations. A model is always a simplified representation of a natural system and should be interpreted as such. The limitations of this model include the exclusion of female breeding intervals, the smaller population sizes compared to natural turtle populations, and the disregard for genetic effects and other temperature-induced impacts on turtle hatchlings. Despite these limitations, modeling remains a valuable tool for informing conservation efforts and exploring ecological questions.
