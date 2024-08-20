@@ -2,8 +2,6 @@
 # Climate Change-Induced Bias in Turtle Populations with Temperature-Dependent Sex Determination
 <img src="https://github.com/dj-rojo/Climate-Change-Induced-Bias-in-Turtle-Populations-with-Temperature-Dependent-Sex-Determination/blob/main/Model%20Final%20view.png" alt="Description of the image" align="right" width="200" />
 
-Your text starts here and will wrap around the image. This style is often used to keep the image close to the related text but aligned to the right, allowing the text to flow on the left side of the image.
-
 This project showcases an agent-based model developed in NetLogo, along with the accompanying code for data analysis. It was submitted as part of my bachelor's thesis to achieve a Bachelor of Science in Environmental Systems Science at the University of Graz. The model simulates a sea turtle population with a basic reproductive cycle, demonstrating how climate change-induced feminization might affect it.
 For more information and a detailed description of the methods see my thesis paper as published in this repository. 
 
