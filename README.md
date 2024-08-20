@@ -1,3 +1,8 @@
+![model image](C:/Users/Joe/Pictures/Screenshots/tutle .png)
+![alt text](http://url/to/img.png)
+
+
+
 # Welcome
 
 This project showcases an agent-based model developed in NetLogo, along with the accompanying code for data analysis. It was submitted as part of my bachelor's thesis to achieve a Bachelor of Science in Environmental Systems Science at the University of Graz. The model simulates a sea turtle population with a basic reproductive cycle, demonstrating how climate change-induced feminization might affect it.
